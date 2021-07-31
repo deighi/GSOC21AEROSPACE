@@ -1,5 +1,4 @@
 %% Initialice the simulation
-
 Dynamics
 CubeSat_Properties
 
